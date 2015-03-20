@@ -1,0 +1,20 @@
+{
+  "name": "leaflet-bootstrap-mapping-template",
+  "version": "0.0.1",
+  "homepage": "https://github.com/peterm95018/leaflet-bootstrap-mapping-template",
+  "authors": [
+    "Peter McMillan <peterm95018@gmail.com>"
+  ],
+  "description": "fork of template for AngularJS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-leaflet-directive": "~0.7.11"
+  }
+}
